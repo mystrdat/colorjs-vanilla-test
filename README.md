@@ -1,1 +1,0 @@
-# colorjs-vanilla-test
